@@ -99,16 +99,16 @@ EA is classified into sub types. The following sections lists the data platform 
 - DevOps
 
 #### **Security Architecture**
-- Figure out strategy for
+- Figure out a strategy for
     * Data Governance
     * Data Catalog
-    * Security (default, row and column level)
+    * Security (default, row, and column level)
     * Encryption
     * Usage Statistics
-- Internal auditing
-- External auditing
+- Internal auditing : security reports, security viloations, change management, etc
+- External auditing : security reports, security viloations, change management, etc
 - Business continuity auditing
-- Row level security
+- Row-level security
 
 <br />
 
